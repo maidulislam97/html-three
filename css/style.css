@@ -1,0 +1,55 @@
+h1{
+	font-size: 50px;
+}
+.green{
+	color: green;
+}
+
+.header{
+	min-height: 50px;
+	background-color: green;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	min-height: 100px;
+	background-color: red;
+}
+.contract{
+	float: right;
+	width: 40%;
+	min-height: 100px;
+	background-color: yellow;
+}
+.wrapper{
+	overflow: hidden;
+}
+.box{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+}
+.purple{
+	background-color: purple;
+}
+.cyan{
+	background-color: cyan;
+}
+.orange{
+	background-color: orange;
+}
+.footer{
+	min-height: 50px;
+	background-color: black;
+}
+.box_one{
+	min-height: 100px;
+	width: 100px;
+	background-color: red;
+	padding: 50px;
+	border: 5px solid green;
+	margin: 40px 30px;
+}
